@@ -9,3 +9,5 @@ Finding 3: 62.4% of late orders got a 1 or 2 star review, against 9.3% of on-tim
 Finding 4: The longer the delay, the worse the review. Unhappy reviews (1 or 2 stars): 9.3% on time, 32.1% for 1-3 days late, 67.6% for 4-7 days late, 79.3% for 8+ days late. Even a 1-3 day delay lowers the average review from 4.29 to 3.29.
 
 Finding 5: Late delivery differs a lot by state (states with 500+ orders). Maranhão (MA) has the highest late rate at 17.4%, and Paraná (PR) has the lowest at 4.0%. Rio de Janeiro (RJ) has a 12.1% late rate and 1,495 late orders, about 23% of all late orders. São Paulo (SP) and RJ together account for about half of all late orders.
+
+Finding 6: I read a random sample of 30 one-star comments from orders that arrived on time. Almost none complained about delivery speed. The main reasons were wrong or not-as-described items (7), incomplete orders (7), orders marked delivered but never received (6), poor quality or broken items (6), and ignored cancellation or return requests (3). Order accuracy (wrong or missing items) was about 47% of the sample. Limit: small sample of 30, rough guide only.
