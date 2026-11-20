@@ -10,6 +10,6 @@ Finding 4: The longer the delay, the worse the review. Unhappy reviews (1 or 2 s
 
 Finding 5: Late delivery differs a lot by state (states with 500+ orders). Maranhão (MA) has the highest late rate at 17.4%, and Paraná (PR) has the lowest at 4.0%. Rio de Janeiro (RJ) has a 12.1% late rate and 1,495 late orders, about 23% of all late orders. São Paulo (SP) and RJ together account for about half of all late orders.
 
-Finding 6: I read a random sample of 30 one-star comments from orders that arrived on time. Almost none complained about delivery speed. The main reasons were wrong or not-as-described items (7), incomplete orders (7), orders marked delivered but never received (6), poor quality or broken items (6), and ignored cancellation or return requests (3). Order accuracy (wrong or missing items) was about 47% of the sample. Limit: small sample of 30, rough guide only.
+Finding 6: I read a random sample of 30 one-star comments from orders that arrived on time. Almost none complained about delivery speed. The main reasons were wrong or not-as-described items (7), incomplete orders (7), orders marked delivered but never received (6), poor quality or broken items (6), and ignored cancellation or return requests (3). Limit: small sample of 30, rough guide only.
 
-Finding 7: A Mann-Whitney test confirms the review gap between on-time orders (average 4.29, 89,443 reviewed orders) and late orders (average 2.27, 6,381 reviewed orders) is statistically significant (p < 0.001). The gap is about 2 stars.
+Finding 7: A Mann-Whitney test confirms the review gap between on-time orders (average 4.29) and late orders (average 2.27) is statistically significant (p < 0.001). The gap is about 2 stars.
